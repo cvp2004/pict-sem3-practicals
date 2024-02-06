@@ -1,0 +1,16 @@
+LaunchTargetManager/configs/21465_Assign7\ Debug=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/21465_Assign7.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Assign7.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/LinkedList.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:LinkedList.exe,org.eclipse.launchbar.core.descriptorType.default\:21465_Assign7.exe,org.eclipse.launchbar.core.descriptorType.default\:21465_Assign7 Debug,org.eclipse.launchbar.core.descriptorType.default\:Assign7.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:21465_Assign7\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:21465_Assign7\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:21465_Assign7.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:21465_Assign7.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:LinkedList.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:LinkedList.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

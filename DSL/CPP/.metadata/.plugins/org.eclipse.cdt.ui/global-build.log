@@ -1,0 +1,17 @@
+21:06:27 **** Clean-only build of configuration Debug for project Assign7 ****
+rm -rf Assign7.exe src/Assign7.o src/Assign7.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;\usr\bin;C:\orcl11g\product\11.2.0\dbhome_1\bin;C:\Python311\Scripts\;C:\Python311\;E:\SOFTWARES\Techno\Databases\Oracle\WINDOWS.X64_213000_client_home\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oracle\product\11.2.0\dbhome_1\bin;D:\oracle21cXE\dbhomeXE\bin;C:\Apache Software Foundation\Tomcat 9.0\lib\servlet-api.jar;D:\oracle\product\11.2.0\dbhome_1\bin;C:\Users\cpara\Dropbox\PC\Downloads\SOFTWARES\Databases\WINDOWS.X64_193000_db_home\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Git\cmd;C:\JDK\jdk1.7.0_80\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\xampp\php;C:\composer;C:\Git LFS;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\MinGW\bin;C:\Users\cpara\AppData\Local\Microsoft\WindowsApps;C:\IntelliJ IDEA Community Edition 2021.3.3\bin;C:\Users\cpara\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\cpara\AppData\Local\Microsoft\WindowsApps;C:\Users\cpara\.dotnet\tools;C:\Users\cpara\AppData\Roaming\Composer\vendor\bin;C:\IntelliJ IDEA Community Edition 2021.3.3\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\cpara\DataGrip 2022.1.1\bin;C:\JetBrains\JetBrains Rider 2022.3.1\bin;;C:\PyCharm Community Edition 2022.1\bin;;C:\PyCharm 2022.3.1\bin;;C:\WebStorm 2022.3.1\bin;;C:\IntelliJ IDEA 2022.3.1\bin;;C:\IntelliJ IDEA Community Edition 2022.3.1\bin;;C:\Users\cpara\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts;C:\Hyper\resources\bin;C:\Users\cpara\AppData\Roaming\npm;C:\MinGW\bin;C:\VS Code\bin]
+
+21:06:27 **** Clean-only build of configuration Debug for project Assign7 ****
+21:06:35 **** Rebuild of configuration Debug for project Assign7 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Assign7.o" "..\\src\\Assign7.cpp" 
+g++ -o Assign7.exe "src\\Assign7.o" 
+21:07:56 **** Incremental Build of configuration Debug for project Assign7 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Assign7.o" "..\\src\\Assign7.cpp" 
+g++ -o Assign7.exe "src\\Assign7.o" 
+Info: Nothing to build for Assign7

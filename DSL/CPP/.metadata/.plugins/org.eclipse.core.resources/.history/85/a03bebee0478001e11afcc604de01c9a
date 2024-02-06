@@ -1,0 +1,211 @@
+//============================================================================
+// Name        : 21465_Assign7.cpp
+// Author      : 21465 Chaitanya paraskar
+// Version     :
+// Copyright   :
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+#define AVAILABLE 0
+#define OCCUPIED 1
+#include <iostream>
+using namespace std;
+
+class Seat
+{
+public:
+	bool status = AVAILABLE;
+	Seat *next = NULL;
+	Seat *last = NULL;
+};
+
+class Cinemax
+{
+private:
+	Seat *start[10];
+public:
+	void init()
+	{
+		for(int i = 0; i < 10; i++)
+		{
+//			Seat *n0, *n1, *n2, *n3, *n4, *n5, *n6;
+//			n0 = new Seat();
+//			n1 = new Seat();
+//			n2 = new Seat();
+//			n3 = new Seat();
+//			n4 = new Seat();
+//			n5 = new Seat();
+//			n6 = new Seat();
+//
+//			this->start[i] = n0;
+//
+//			n0->next = n1;
+//			n1->next = n2;
+//			n2->next = n3;
+//			n3->next = n4;
+//			n4->next = n5;
+//			n5->next = n6;
+//			n6->next = n0;
+//
+//			n1->last = n0;
+//			n2->last = n1;
+//			n3->last = n2;
+//			n4->last = n3;
+//			n5->last = n4;
+//			n6->last = n5;
+//			n0->last = n6;
+
+			for(int j = 0; j < 7; j++)
+			{
+
+				Seat *n = new Seat();
+
+				if(j == 0)
+				{
+					n->next = this->start[i];
+					this->start[i] = n;
+				}
+				else
+				{
+					Seat *ptr = this->start[i];
+
+					n->next = this->start[i]->next;
+					this->start[i] = n;
+                    n-
+
+				}
+			}
+
+			cout << "a" << endl;
+
+		}
+	}
+
+	void display()
+	{
+
+		cout << "          SEAT STATUS          " << endl;
+
+		for (int i = 0; i < 10; i++) {
+			Seat *n0, *n1, *n2, *n3, *n4, *n5, *n6;
+			n0 = this->start[i];
+			n1 = n0->next;
+			n2 = n1->next;
+			n3 = n2->next;
+			n4 = n3->next;
+			n5 = n4->next;
+			n6 = n5->next;
+
+			cout << "-------------------------------"<<endl;
+			cout<< " | " << n0->status
+				<< " | " << n1->status
+				<< " | " << n2->status
+				<< " | " << n3->status
+				<< " | " << n4->status
+				<< " | " << n5->status
+				<< " | " << n6->status
+				<< " | " << endl;
+		}
+
+		cout << "-------------------------------"<<endl;
+	}
+
+//	void book()
+//	{
+//		for (int i = 0; i < 15; ++i) {
+//			int r = (rand() % 10 + 1) - 1;
+//			int c = (rand() % 7 + 1) - 1;
+//			cout << "r = " << r << " c = " << c << endl;
+//
+//			Seat *ptr = this->start[r];
+//
+//			for(int j = 0; j < c; j++)
+//			{
+//				ptr = ptr->next;
+//			}
+//
+//			ptr->status = OCCUPIED;
+//		}
+//	}
+
+	void book(int r, int c)
+	{
+
+		if(r > 10 || c > 7)
+		{
+			cout << "Please Enter Valid Input !!" << endl;
+			cout << "Row No. must be from 1 - 10 \nColumn No. must be from 1-7 " << endl;
+		} else
+		{
+			Seat *ptr = this->start[r-1];
+
+			for(int j = 0; j < c-1; j++)
+			{
+				ptr = ptr->next;
+			}
+
+			ptr->status = OCCUPIED;
+
+			cout << "Seat R" << r << "C" << c << " is Booked Successfully !!" <<endl;
+		}
+
+	}
+//
+//	void bookCons(int r, int n)
+//	{
+//
+//		if(r > 10 || n > 7)
+//		{
+//			cout << "Please Enter Valid Input !!" << endl;
+//			cout << "Row No. must be from 1 - 10 \nSeat Count must be from 1-7 " << endl;
+//		} else
+//		{
+//			Seat *ptr = this->start[r-1];
+//
+//			int count = 0;
+//
+//			while(true)
+//			{
+//				if(count == 2)
+//					break;
+//
+//				while(count < 2)
+//				{
+//
+//				}
+//
+//				if(ptr == start)
+//					count++;
+//
+//				ptr = ptr->next;
+//			}
+//
+//		}
+//
+//	}
+};
+
+
+int main() {
+
+	Cinemax a;
+	a.init();
+
+
+	a.display();
+
+	int r, c;
+
+	cout << "Total Rows : 10 " << endl;
+	cout << "Total Columns : 7 " << endl;
+
+	cout << "Enter Row No. : ";
+	cin >> r;
+
+	cout << "Enter Column No. : ";
+	cin >> c;
+
+	a.book(r, c);
+	a.display();
+
+	return 0;
+}

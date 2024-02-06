@@ -1,0 +1,72 @@
+//============================================================================
+// Name        : 21465_Assign7.cpp
+// Author      : 21465 Chaitanya Paraskar
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+#define OCCUPIED 1
+#define AVAILABLE 0
+#include <iostream>
+using namespace std;
+
+class Seat
+{
+private:
+	bool status = AVAILABLE;
+	Seat *next = NULL;
+};
+
+class Row
+{
+private:
+	Seat *start = NULL;
+public:
+	Row()
+	{
+		for(int i = 0; i < 7; i++)
+		{
+			Seat *NEW = new Seat();
+			Seat *PTR = this->start;
+
+			while(PTR->next != NULL)
+				PTR = PTR->next;
+
+			PTR->next = NEW;
+		}
+	}
+
+	void show()
+	{
+		Seat *PTR = this->start;
+
+		cout << "|";
+		while(PTR != NULL)
+		{
+			if(PTR->status == OCCUPIED)
+				cout << " O " << "|";
+			else
+				cout << " A " << "|";
+
+			PTR = PTR->next;
+		}
+
+		cout << endl;
+	}
+};
+
+class Theatre
+{
+private:
+	Row *rows = NULL;
+public:
+	Rows()
+	{
+		Row *NEW = new Row();
+	}
+};
+
+int main() {
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}

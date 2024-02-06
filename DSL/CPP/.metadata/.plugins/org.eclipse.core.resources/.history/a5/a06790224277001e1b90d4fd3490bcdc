@@ -1,0 +1,88 @@
+//============================================================================
+// Name        : 21465_Assign7.cpp
+// Author      : 21465 Chaitanya Paraskar
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+#define OCCUPIED 1
+#define AVAILABLE 0
+#include <iostream>
+using namespace std;
+
+class Seat
+{
+public:
+	bool status = AVAILABLE;
+	Seat *next = NULL;
+};
+
+class Row
+{
+private:
+	Seat *start = NULL;
+public:
+	Row()
+	{
+		cout << "1" << endl;
+		for(int i = 0; i < 7; i++)
+		{
+			Seat *NEW = new Seat();
+			Seat *PTR = this->start;
+
+			while(PTR->next != NULL)
+				PTR = PTR->next;
+
+			PTR->next = NEW;
+		}
+		cout << "1" << endl;
+	}
+
+	void show()
+	{
+		Seat *PTR = this->start;
+
+		cout << "|";
+		while(PTR != NULL)
+		{
+			if(PTR->status == OCCUPIED)
+				cout << " O " << "|";
+			else
+				cout << " A " << "|";
+
+			PTR = PTR->next;
+		}
+
+		cout << endl;
+	}
+};
+
+class Theatre
+{
+private:
+	Row *row[10];
+public:
+	Theatre()
+	{
+		cout << "2" << endl;
+		for(int i = 0; i < 10; i++)
+		{
+			row[i] = new Row();
+		}
+		cout << "1" << endl;
+	}
+	void show()
+	{
+		for (int i = 0; i < 10; i++) {
+			row[i].show();
+		}
+	}
+};
+
+int main() {
+	cout << "1" << endl;
+	Theatre *a = new Theatre();
+	cout << "1" << endl;
+	a->show();
+	return 0;
+}

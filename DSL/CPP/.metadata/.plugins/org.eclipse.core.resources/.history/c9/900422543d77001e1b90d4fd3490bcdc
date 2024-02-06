@@ -1,0 +1,23 @@
+//============================================================================
+// Name        : 21465_Assign7.cpp
+// Author      : 21465 Chaitanya Paraskar
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+#define OCCUPIED 1
+#define AVAILABLE 0
+#include <iostream>
+using namespace std;
+
+class Seat
+{
+private:
+	bool status = AVAILABLE;
+	Seat *next = NULL;
+};
+
+int main() {
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}

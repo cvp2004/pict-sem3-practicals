@@ -1,0 +1,9 @@
+21:06:11 **** Incremental Build of configuration Debug for project Assign7 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Assign7.o" "..\\src\\Assign7.cpp" 
+g++ -o Assign7.exe "src\\Assign7.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Assign7.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+21:06:12 Build Failed. 1 errors, 0 warnings. (took 690ms)
+
