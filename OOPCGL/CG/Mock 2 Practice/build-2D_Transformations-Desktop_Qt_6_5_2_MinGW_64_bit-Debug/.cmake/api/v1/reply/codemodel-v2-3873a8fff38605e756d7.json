@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cb1039a6a51b39333b39.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2D_Transformations",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2D_Transformations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2D_Transformations-Debug-9a63501ec120ad415363.json",
+					"name" : "2D_Transformations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2D_Transformations_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2D_Transformations_autogen-Debug-18184d43c25eae5df1a3.json",
+					"name" : "2D_Transformations_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2D_Transformations_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2D_Transformations_autogen_timestamp_deps-Debug-3f2cea03ec000e178334.json",
+					"name" : "2D_Transformations_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug",
+		"source" : "D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/2D_Transformations"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

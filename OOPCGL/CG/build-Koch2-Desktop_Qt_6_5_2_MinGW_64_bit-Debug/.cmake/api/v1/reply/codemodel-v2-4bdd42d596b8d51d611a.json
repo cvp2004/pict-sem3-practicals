@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-437ba7d579d70e613e08.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Koch2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Koch2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Koch2-Debug-7cef2c6e2e2ac20cc5fc.json",
+					"name" : "Koch2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Koch2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Koch2_autogen-Debug-e30776a5ae9f67845905.json",
+					"name" : "Koch2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Koch2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Koch2_autogen_timestamp_deps-Debug-d63a4e83e354fd5eaec5.json",
+					"name" : "Koch2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-Koch2-Desktop_Qt_6_5_2_MinGW_64_bit-Debug",
+		"source" : "D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Koch2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

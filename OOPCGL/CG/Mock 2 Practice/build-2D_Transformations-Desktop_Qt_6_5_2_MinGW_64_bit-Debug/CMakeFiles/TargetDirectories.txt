@@ -1,0 +1,9 @@
+D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/2D_Transformations.dir
+D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/2D_Transformations_autogen_timestamp_deps.dir
+D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/2D_Transformations_autogen.dir

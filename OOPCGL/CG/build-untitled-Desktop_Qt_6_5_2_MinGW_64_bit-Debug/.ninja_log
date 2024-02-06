@@ -1,0 +1,9 @@
+# ninja log v5
+1	1576	7224939574169982	untitled_autogen/timestamp	d519628bc7f490e5
+1	1576	7224939574169982	untitled_autogen/mocs_compilation.cpp	d519628bc7f490e5
+1	1576	7224939574169982	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	d519628bc7f490e5
+1	1576	7224939574169982	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-untitled-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	d519628bc7f490e5
+1585	5044	7224939612213648	CMakeFiles/untitled.dir/mainwindow.cpp.obj	10e9145914affceb
+1581	5119	7224939612979950	CMakeFiles/untitled.dir/main.cpp.obj	7a94e79541a98d3f
+1577	5257	7224939614351033	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	35cbfa77430b6a48
+5257	5574	7224939617471561	untitled.exe	f1aeacd47b82116a

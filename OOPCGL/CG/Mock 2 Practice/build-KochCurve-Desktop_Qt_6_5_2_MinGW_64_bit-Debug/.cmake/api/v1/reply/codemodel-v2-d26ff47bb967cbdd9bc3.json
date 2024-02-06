@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b4ef3a56c76db689cf3b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "KochCurve",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "KochCurve::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KochCurve-Debug-efea008d97375b9e3ddc.json",
+					"name" : "KochCurve",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KochCurve_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KochCurve_autogen-Debug-dcbde066f2a87f0e0ed9.json",
+					"name" : "KochCurve_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KochCurve_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KochCurve_autogen_timestamp_deps-Debug-d73de954a6b8c8034f59.json",
+					"name" : "KochCurve_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-KochCurve-Desktop_Qt_6_5_2_MinGW_64_bit-Debug",
+		"source" : "D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/KochCurve"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

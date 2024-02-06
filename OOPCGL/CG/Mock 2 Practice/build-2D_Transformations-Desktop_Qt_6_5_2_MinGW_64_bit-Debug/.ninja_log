@@ -1,0 +1,61 @@
+# ninja log v5
+11	1606	7229757050468089	2D_Transformations_autogen/timestamp	729a1946b8b275b7
+5215	5487	7229757093492615	2D_Transformations.exe	daa221e9871420f3
+11	1606	7229757050468089	2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+11	1606	7229757050468089	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/timestamp	729a1946b8b275b7
+1616	4753	7229757086213344	CMakeFiles/2D_Transformations.dir/main.cpp.obj	51b53b1619ed31bd
+11	1606	7229757050468089	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+1606	4586	7229757084562174	CMakeFiles/2D_Transformations.dir/2D_Transformations_autogen/mocs_compilation.cpp.obj	b1e22b75cc790912
+1611	5215	7229757090854451	CMakeFiles/2D_Transformations.dir/mainwindow.cpp.obj	de4676702f5987cd
+10	466	7229760518978924	2D_Transformations_autogen/timestamp	729a1946b8b275b7
+10	466	7229760518978924	2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+10	466	7229760518978924	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/timestamp	729a1946b8b275b7
+10	466	7229760518978924	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+498	2853	7229760542840033	CMakeFiles/2D_Transformations.dir/mainwindow.cpp.obj	de4676702f5987cd
+2853	3099	7229760545251578	2D_Transformations.exe	daa221e9871420f3
+18	611	7229763929834802	2D_Transformations_autogen/timestamp	729a1946b8b275b7
+18	611	7229763929834802	2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+18	611	7229763929834802	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/timestamp	729a1946b8b275b7
+18	611	7229763929834802	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+9	738	7229764116703674	2D_Transformations_autogen/timestamp	729a1946b8b275b7
+9	738	7229764116703674	2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+9	738	7229764116703674	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/timestamp	729a1946b8b275b7
+9	738	7229764116703674	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+770	3134	7229764140647150	CMakeFiles/2D_Transformations.dir/mainwindow.cpp.obj	de4676702f5987cd
+3135	3562	7229764144905500	2D_Transformations.exe	daa221e9871420f3
+7	551	7229773313790861	2D_Transformations_autogen/timestamp	729a1946b8b275b7
+7	551	7229773313790861	2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+7	551	7229773313790861	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/timestamp	729a1946b8b275b7
+7	551	7229773313790861	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+582	3108	7229773339367028	CMakeFiles/2D_Transformations.dir/mainwindow.cpp.obj	de4676702f5987cd
+3109	3423	7229773342456682	2D_Transformations.exe	daa221e9871420f3
+11	562	7229778866009372	2D_Transformations_autogen/timestamp	729a1946b8b275b7
+11	562	7229778866009372	2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+11	562	7229778866009372	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/timestamp	729a1946b8b275b7
+11	562	7229778866009372	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+605	3031	7229778890738487	CMakeFiles/2D_Transformations.dir/mainwindow.cpp.obj	de4676702f5987cd
+3031	3308	7229778893477926	2D_Transformations.exe	daa221e9871420f3
+10	504	7229784594067443	2D_Transformations_autogen/timestamp	729a1946b8b275b7
+10	504	7229784594067443	2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+10	504	7229784594067443	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/timestamp	729a1946b8b275b7
+10	504	7229784594067443	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+536	3311	7229784622139760	CMakeFiles/2D_Transformations.dir/mainwindow.cpp.obj	de4676702f5987cd
+3312	3639	7229784624986547	2D_Transformations.exe	daa221e9871420f3
+11	655	7229789148685410	2D_Transformations_autogen/timestamp	729a1946b8b275b7
+11	655	7229789148685410	2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+11	655	7229789148685410	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/timestamp	729a1946b8b275b7
+11	655	7229789148685410	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+686	3382	7229789175965938	CMakeFiles/2D_Transformations.dir/mainwindow.cpp.obj	de4676702f5987cd
+3382	3706	7229789179177458	2D_Transformations.exe	daa221e9871420f3
+9	570	7229790697298589	2D_Transformations_autogen/timestamp	729a1946b8b275b7
+9	570	7229790697298589	2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+9	570	7229790697298589	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/timestamp	729a1946b8b275b7
+9	570	7229790697298589	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+604	3129	7229790722907204	CMakeFiles/2D_Transformations.dir/mainwindow.cpp.obj	de4676702f5987cd
+3130	3534	7229790726918826	2D_Transformations.exe	daa221e9871420f3
+9	616	7229793564718272	2D_Transformations_autogen/timestamp	729a1946b8b275b7
+9	616	7229793564718272	2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+9	616	7229793564718272	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/timestamp	729a1946b8b275b7
+9	616	7229793564718272	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/Mock 2 Practice/build-2D_Transformations-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/2D_Transformations_autogen/mocs_compilation.cpp	729a1946b8b275b7
+652	3223	7229793590788934	CMakeFiles/2D_Transformations.dir/mainwindow.cpp.obj	de4676702f5987cd
+3223	3503	7229793593524753	2D_Transformations.exe	daa221e9871420f3

@@ -1,0 +1,41 @@
+# ninja log v5
+8	508	7200320155396350	ScanConversions_autogen/mocs_compilation.cpp	f060b69e9fafef09
+8	508	7200320155396350	ScanConversions_autogen/timestamp	f060b69e9fafef09
+8	508	7200320155396350	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-ScanConversions-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/ScanConversions_autogen/timestamp	f060b69e9fafef09
+2660	2942	7200320179076908	ScanConversions.exe	a607c72435e0e14b
+8	508	7200320155396350	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-ScanConversions-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/ScanConversions_autogen/mocs_compilation.cpp	f060b69e9fafef09
+1150	3315	7200307062139716	CMakeFiles/ScanConversions.dir/ScanConversions_autogen/mocs_compilation.cpp.obj	939c11345a6be9c3
+1154	3405	7200307063052370	CMakeFiles/ScanConversions.dir/main.cpp.obj	c39c5abea355b274
+550	2660	7200320176937880	CMakeFiles/ScanConversions.dir/mainwindow.cpp.obj	92412d1cfb600024
+7	1240	7200322053448096	ScanConversions_autogen/timestamp	f060b69e9fafef09
+7	1240	7200322053448096	ScanConversions_autogen/mocs_compilation.cpp	f060b69e9fafef09
+7	1240	7200322053448096	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-ScanConversions-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/ScanConversions_autogen/timestamp	f060b69e9fafef09
+7	1240	7200322053448096	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-ScanConversions-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/ScanConversions_autogen/mocs_compilation.cpp	f060b69e9fafef09
+1248	3809	7200322082939992	CMakeFiles/ScanConversions.dir/main.cpp.obj	c39c5abea355b274
+1240	3939	7200322084248796	CMakeFiles/ScanConversions.dir/ScanConversions_autogen/mocs_compilation.cpp.obj	939c11345a6be9c3
+1243	4142	7200322086264585	CMakeFiles/ScanConversions.dir/mainwindow.cpp.obj	92412d1cfb600024
+4142	4380	7200322088623321	ScanConversions.exe	a607c72435e0e14b
+8	420	7200323933750188	ScanConversions_autogen/timestamp	f060b69e9fafef09
+8	420	7200323933750188	ScanConversions_autogen/mocs_compilation.cpp	f060b69e9fafef09
+8	420	7200323933750188	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-ScanConversions-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/ScanConversions_autogen/timestamp	f060b69e9fafef09
+8	420	7200323933750188	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-ScanConversions-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/ScanConversions_autogen/mocs_compilation.cpp	f060b69e9fafef09
+449	2729	7200323956849372	CMakeFiles/ScanConversions.dir/mainwindow.cpp.obj	92412d1cfb600024
+2730	2966	7200323959190528	ScanConversions.exe	a607c72435e0e14b
+7	438	7200324056928896	ScanConversions_autogen/timestamp	f060b69e9fafef09
+7	438	7200324056928896	ScanConversions_autogen/mocs_compilation.cpp	f060b69e9fafef09
+7	438	7200324056928896	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-ScanConversions-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/ScanConversions_autogen/timestamp	f060b69e9fafef09
+7	438	7200324056928896	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-ScanConversions-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/ScanConversions_autogen/mocs_compilation.cpp	f060b69e9fafef09
+463	2491	7200324077460357	CMakeFiles/ScanConversions.dir/mainwindow.cpp.obj	92412d1cfb600024
+2492	2713	7200324079649794	ScanConversions.exe	a607c72435e0e14b
+10	924	7200324903961233	ScanConversions_autogen/timestamp	f060b69e9fafef09
+10	924	7200324903961233	ScanConversions_autogen/mocs_compilation.cpp	f060b69e9fafef09
+10	924	7200324903961233	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-ScanConversions-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/ScanConversions_autogen/timestamp	f060b69e9fafef09
+10	924	7200324903961233	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-ScanConversions-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/ScanConversions_autogen/mocs_compilation.cpp	f060b69e9fafef09
+961	3176	7200324926503427	CMakeFiles/ScanConversions.dir/mainwindow.cpp.obj	92412d1cfb600024
+3176	3444	7200324929120112	ScanConversions.exe	a607c72435e0e14b
+6	390	7200325676753106	ScanConversions_autogen/timestamp	f060b69e9fafef09
+6	390	7200325676753106	ScanConversions_autogen/mocs_compilation.cpp	f060b69e9fafef09
+6	390	7200325676753106	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-ScanConversions-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/ScanConversions_autogen/timestamp	f060b69e9fafef09
+6	390	7200325676753106	D:/CHARU/PICT/PICT ACADEMIC DOCS/SEMESTER 3/SUBMISSIONS/PRACTICALS/OOPCGL/CG/build-ScanConversions-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/ScanConversions_autogen/mocs_compilation.cpp	f060b69e9fafef09
+415	2257	7200325695389162	CMakeFiles/ScanConversions.dir/mainwindow.cpp.obj	92412d1cfb600024
+2257	2497	7200325697686567	ScanConversions.exe	a607c72435e0e14b
